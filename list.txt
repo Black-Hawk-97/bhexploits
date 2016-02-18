@@ -1,0 +1,84 @@
+/wp-content/plugins/tierra-billboard-manager/tierra-billboard-playlist.php http://adf.ly/1WyugU SQL-Injection
+/wp-content/plugins/clikstats/ck.php http://adf.ly/1Wz2qc Open-Redirect
+/wp-content/plugins/formcraft http://adf.ly/1X4vY1 File-Upload
+/wp-content/plugins/newsletter-pro/do.php http://adf.ly/1X4w4J Open-Redirect
+/wp-content/themes/smallbiz/palette/index.php http://adf.ly/1X4wHb File-Uploads
+/wp-content/plugins/instalinker/includes/instalinker-admin-preview.php http://adf.ly/1X4wVm XSS
+/wp-admin/admin-ajax.php?action=umm_switch_action http://adf.ly/1X4x4I UMM-Plugin
+/wp-admin/admin-ajax.php?action=umm_switch_action http://adf.ly/1X4xVK SQLI
+/wp-admin/edit-comments.php?page=wpcommentrating http://adf.ly/1X4xsB XSS
+/wp-content/plugins/appointment-booking-calendar/ http://adf.ly/1X4y6i SQLI
+/wp-content/plugins/appointment-booking-calendar/ http://adf.ly/1X4yDu XSS
+/wp-content/plugins/appointment-booking-calendar/ http://adf.ly/1X4z4S SQLI
+/wp-content/plugins/tubepress/common/popup.php http://adf.ly/1X4zLn XSS
+/wp-content/plugins/wp-noexternallinks/goto.php http://adf.ly/1X50Hi Open-Redirect
+/wp-admin/admin-ajax.php?action=commentator_social_signin&provider=facebook http://adf.ly/1X551U XSS
+/wp-content/plugins/wp-js-external-link-info/redirect.php http://adf.ly/1X556o Open-Redirect
+/wp-content/plugins/wordpress-feed-statistics/feed-statistics.php http://adf.ly/1X55Cv Open-Redirect-B64
+/wp-content/plugins/AzonPop/files/view/showpopup.php http://adf.ly/1X55Vb SQLI
+/wp-content/themes/stvp/jwplayer.php http://adf.ly/1X55fN XSS
+/wp-content/plugins/revslider/ http://adf.ly/1X55zY XSS-RFU-Dow
+/wp-admin/admin-ajax.php?action=revslider_show_image http://adf.ly/1X569u XSS
+/wp-admin/admin.php?page=quotes-and-tips.php http://adf.ly/1X56SB XSS
+/wp-admin/admin.php?page=portfolio.php http://adf.ly/1X5723 XSS
+/wp-content/plugins/tierra-billboard-manager/tierra-billboard-playlist.php http://adf.ly/1WyugU SQLI
+/wp-content/uploads/slideshow-gallery http://adf.ly/1X5UXI RFU
+/wp-content/plugins/revslider/ http://adf.ly/1X5Uk8 RFU-Execute
+/wp-content/plugins/wpshop/ http://adf.ly/1X5V1x RFU
+/wp-content/plugins/inboundio-marketing/ http://adf.ly/1X5VHr RFU
+/wp-content/plugins/category-grid-view-gallery/includes/timthumb.php http://adf.ly/1X5VXj RFU
+/wp-content/plugins/auto-attachments http://adf.ly/1X5VXj RFU
+/wp-content/plugins/wp-marketplace http://adf.ly/1X5VXj RFU
+/wp-content/plugins/dp-thumbnail http://adf.ly/1X5VXj RFU
+/wp-content/plugins/vk-gallery http://adf.ly/1X5VXj RFU
+/wp-content/plugins/rekt-slideshow http://adf.ly/1X5VXj RFU
+/wp-content/plugins/cac-featured-content http://adf.ly/1X5VXj RFU
+/wp-content/plugins/rent-a-car http://adf.ly/1X5VXj RFU
+/wp-content/plugins/lisl-last-image-slider http://adf.ly/1X5VXj RFU
+/wp-content/plugins/islidex http://adf.ly/1X5VXj RFU
+/wp-content/plugins/kino-gallery http://adf.ly/1X5VXj RFU
+/wp-content/plugins/cms-pack http://adf.ly/1X5VXj RFU
+/wp-content/plugins/a-gallery http://adf.ly/1X5VXj RFU
+/wp-content/plugins/category-list-portfolio-page http://adf.ly/1X5VXj RFU
+/wp-content/plugins/really-easy-slider http://adf.ly/1X5VXj RFU
+/wp-content/plugins/verve-meta-boxes http://adf.ly/1X5VXj RFU
+/wp-content/plugins/user-avatar http://adf.ly/1X5VXj RFU
+/wp-content/plugins/extend-wordpress http://adf.ly/1X5VXj RFU
+/wp-content/plugins/extend-wordpress/helpers/timthumb/image.php http://adf.ly/1X5VXj RFU
+/wp-content/plugins/reflex-gallery/ http://adf.ly/1X5Wc1 RFU
+/wp-content/plugins/sexy-contact-form http://adf.ly/1X5Wns RFU
+/wp-content/plugins/booking-calendar-contact-form http://adf.ly/1X5XCH Multi-Exploit
+/wp-content/plugins/wp-user-frontend/ http://adf.ly/1X5XS5 RFU
+/wp-content/plugins/wp-user-frontend-pro/ http://adf.ly/1X5XS5 RFU
+/wp-content/plugins/woocommerce-store-toolkit/ http://adf.ly/1X5Xm1 Privilege-Escalation
+/wp-content/plugins/user-meta-manager/ http://adf.ly/1X5XwC Information-Disclosure
+/wp-content/plugins/alo-easymail/ http://adf.ly/1X5Y5X CSRF
+/wp-content/plugins/users-ultra/ http://adf.ly/1X5YH0 Persistent-XSS
+/wp-content/plugins/users-ultra/ http://adf.ly/1X5YO1 SQLI
+/wp-content/plugins/thecartpress/ http://adf.ly/1X5YVF Multiple-Vuln
+/wp-content/plugins/advanced-uploader/ http://adf.ly/1X5YkD Multiple-Vuln
+/wp-content/plugins/sell-downloads/ http://adf.ly/1X5Ybh Local-File-Disclosure
+/wp-content/plugins/polls-widget/ http://adf.ly/1X5YrM SQL-Injection
+/wp-content/plugins/wp-polls/ http://adf.ly/1X5Z1C XSS-CSRF
+/wp-content/plugins/admin-management-xtended/ http://adf.ly/1X5Z7T Privilege-escalation
+/wp-content/plugins/booking-calendar-contact-form/ http://adf.ly/1X5ZGS SQL-Injection
+/wp-content/plugins/booking-calendar-contact-form/ http://adf.ly/1X5ZOb SQL-Injection 
+/wp-content/plugins/booking-calendar-contact-form/ http://adf.ly/1X5ZTh SQL-Injection
+/wp-content/plugins/booking-calendar-contact-form/ http://adf.ly/1X5ZXU SQL-Injection
+/wp-content/plugins/user-meta-manager/ http://adf.ly/1X5a3V Info-Disclosure
+/wp-content/themes/sandbox/ http://adf.ly/1X5ZtS RFU
+/wp-content/plugins/ajax-load-more/ http://adf.ly/1X5aAk RFU
+/wp-content/themes/smallbiz/ http://adf.ly/1X5aFn RFU
+/wp-content/plugins/alo-easymail/ http://adf.ly/1X5aM1 CSRF
+/wp-content/themes/kernel-theme/ http://adf.ly/1X5aTT Code-Execution
+
+
+
+
+
+
+
+
+
+
+
